@@ -7,7 +7,7 @@ If you need to increase the amount of space allocated to an array, you would hav
 
 Knowing this, we can see the value a Linked List might bring to the table, as an indefinitely growing data structure.
 
-An brief glance at the linked lists structure might look something like this.
+A brief glance at the linked lists structure might look something like this.
 
 ```js
 const LinkedList = {
