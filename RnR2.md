@@ -1,6 +1,6 @@
 # The Linked List
 
-Linked lists are an incredibly versatile data structure.  The easiest structure to compare them to would be an Array.  They key differences are that Linked Lists are not indexed like Arrays are, but in exchange, you're able to dynamically resize a Linked List without re-allocating memory for the entire thing.
+Linked lists are an incredibly versatile data structure.  The easiest structure to compare them to would be an Array.  The key differences are that Linked Lists are not indexed like Arrays are, but in exchange, you're able to dynamically resize a Linked List without re-allocating memory for the entire thing.
 
 Many languages, like javascript, will abstract away memory management, but when you create an array, you're telling the computer, "Hey, I need this much space.", and it blocks out that place in memory to be used exclusively by your array.
 If you need to increase the amount of space allocated to an array, you would have to create a new one, copy the contents of the old array into the new one, and then de-allocate the old one.
